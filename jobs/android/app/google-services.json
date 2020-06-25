@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "651396248763",
+    "firebase_url": "https://jobanalyzer-b60f9.firebaseio.com",
+    "project_id": "jobanalyzer-b60f9",
+    "storage_bucket": "jobanalyzer-b60f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651396248763:android:462d128551d25be106259e",
+        "android_client_info": {
+          "package_name": "com.small.jobs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651396248763-s3rbeif5trgt7i9d4tavp1rgjl4l0p0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANL1GZkzdX5wcEhM0RiuEXHg7uPX1V51Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651396248763-s3rbeif5trgt7i9d4tavp1rgjl4l0p0c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
