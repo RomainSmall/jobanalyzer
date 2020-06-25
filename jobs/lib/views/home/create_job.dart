@@ -100,7 +100,7 @@ class _CreateJobViewState extends State<CreateJobView> {
                 FormBuilderDateTimePicker(
                   attribute: "date",
                   inputType: InputType.date,
-                  format: DateFormat("yyyy-MM-dd"),
+                  format: DateFormat("yyyy-mm-dd"),
                   onSaved: (input) => newJob.jobDate = input.toString(),
                   decoration: const InputDecoration(
                     icon: const Icon(Icons.calendar_today),
